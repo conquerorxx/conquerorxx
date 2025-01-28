@@ -1,0 +1,12 @@
+{
+  "name": "engine-xie",
+  "version": "1.0.0",
+  "description": "An unstoppable Node.js stock server for Engine Xie",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
